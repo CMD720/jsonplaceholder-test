@@ -1,7 +1,7 @@
 # 3 things testing -  App
 
 #### testing - API (jsonplaceholder), Redux-Saga, Bootstrap.
-* `deploy:` https://vercel.app/
+* `deploy:` https://jsonplaceholder-test-ivory.vercel.app/
 
 
 
